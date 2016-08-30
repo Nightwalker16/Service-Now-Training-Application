@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="training_fee" label="Training Fee" language="en" table="x_23378_training_w_trainers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>training_fee</element>
+            <help/>
+            <hint/>
+            <label>Training Fee</label>
+            <language>en</language>
+            <name>x_23378_training_w_trainers</name>
+            <plural>Training Fees</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:48:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2df49c654f21220091f434a18110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Training Fee</sys_name>
+            <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+            <sys_update_name>sys_documentation_x_23378_training_w_trainers_training_fee_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:48:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

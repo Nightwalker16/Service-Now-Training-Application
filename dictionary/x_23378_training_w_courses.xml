@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Courses" max_length="40" name="x_23378_training_w_courses" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Certification Support" max_length="100" name="certification_support" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Duration" max_length="100" name="course_duration" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Name" max_length="100" name="course_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fees" max_length="100" name="fees" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Mode of training" max_length="100" name="mode_of_training" type="choice">
+            <choice>
+                <element label="GOTO Meeting" value="4"/>
+                <element label="Join.me" value="3"/>
+                <element label="Skype" value="2"/>
+                <element label="Webex" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="NO of Hours" max_length="100" name="no_of_hours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Time" max_length="100" name="training_time" type="string"/>
+    </element>
+</database>

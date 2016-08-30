@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Trainers" max_length="40" name="x_23378_training_w_trainers" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Area of Expertise" max_length="1000" name="area_of_expertise" type="string"/>
+        <element label="Facebook URL" max_length="1024" name="facebook_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="100" name="full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hands On" max_length="40" name="hands_on" type="string"/>
+        <element label="Linkedin URL" max_length="1024" name="linkedin_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Display Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Support" max_length="40" name="project_support" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="BE (BTECH)" label="Qualification" max_length="40" name="qualification" type="choice">
+            <choice>
+                <element label="BE (BTECH)" value="1"/>
+                <element label="BS" value="4"/>
+                <element label="MS" value="5"/>
+                <element label="MTECH" value="2"/>
+                <element label="PHD" value="3"/>
+                <element label="Mtech" sequence="0" value="Mtech"/>
+            </choice>
+        </element>
+        <element label="Stackoverflow URL" max_length="1024" name="stackoverflow_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Experience" max_length="40" name="total_experience" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total hour" max_length="40" name="total_hour" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Experience" max_length="4000" name="training_experience" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Fee" max_length="40" name="training_fee" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="WEBEX" label="Training Mode" max_length="40" name="training_mode" type="choice">
+            <choice>
+                <element label="GO To Meeting" value="4"/>
+                <element label="Join.ME" value="3"/>
+                <element label="Skype" value="2"/>
+                <element label="WEBEX" value="1"/>
+                <element label="Webex" sequence="0" value="Webex"/>
+            </choice>
+        </element>
+    </element>
+</database>

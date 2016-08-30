@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="course_reference" max_length="40" name="x_23378_training_w_course_reference" type="collection">
+        <element attributes="import_attribute_name=Certification Support,edge_encryption_enabled=true" label="Certification Support" max_length="40" name="u_certification_support" type="string"/>
+        <element attributes="import_attribute_name=Course Duration,edge_encryption_enabled=true" label="Course Duration" max_length="40" name="u_course_duration" type="string"/>
+        <element attributes="import_attribute_name=Course Name,edge_encryption_enabled=true" label="Course Name" max_length="40" name="u_course_name" type="string"/>
+        <element attributes="import_attribute_name=Fees" label="Fees" max_length="40" name="u_fees" type="integer"/>
+        <element attributes="import_attribute_name=Mode of training,edge_encryption_enabled=true" label="Mode of training" max_length="40" name="u_mode_of_training" type="string"/>
+        <element attributes="import_attribute_name=No of Hours" label="No of Hours" max_length="40" name="u_no_of_hours" type="integer"/>
+        <element attributes="import_attribute_name=Trainig Time" label="Trainig Time" max_length="40" name="u_trainig_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Time" max_length="40" name="u_training_time" type="string"/>
+    </element>
+</database>

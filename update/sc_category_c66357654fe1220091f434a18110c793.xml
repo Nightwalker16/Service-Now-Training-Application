@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Request training in cloud computing technologies</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="">Default</homepage_renderer>
+        <icon/>
+        <image/>
+        <location display_value="Americas">dbf3b4790a0a0a6501a7673fb1b28f7f</location>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="Training Portal">092f87a14fe1220091f434a18110c7ad</parent>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-30 06:41:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c66357654fe1220091f434a18110c793</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud computing</sys_name>
+        <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+        <sys_update_name>sc_category_c66357654fe1220091f434a18110c793</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-30 06:41:52</sys_updated_on>
+        <title>Cloud computing</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c66357654fe1220091f434a18110c793"/>
+</record_update>

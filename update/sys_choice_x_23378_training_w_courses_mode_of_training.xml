@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mode_of_training" table="x_23378_training_w_courses" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Webex</label>
+            <language>en</language>
+            <name>x_23378_training_w_courses</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:18:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>820e08e14f21220091f434a18110c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:18:12</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Skype</label>
+            <language>en</language>
+            <name>x_23378_training_w_courses</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:19:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>673e84e14f21220091f434a18110c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:19:01</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Join.me</label>
+            <language>en</language>
+            <name>x_23378_training_w_courses</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:19:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e55e88e14f21220091f434a18110c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:19:41</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GOTO Meeting</label>
+            <language>en</language>
+            <name>x_23378_training_w_courses</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:20:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>867e8ca14f21220091f434a18110c723</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:20:00</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mode_of_training</element>
+            <name>x_23378_training_w_courses</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-29 16:18:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5e1e80214f21220091f434a18110c7ab</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>mode_of_training</sys_name>
+            <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+            <sys_update_name>sys_choice_x_23378_training_w_courses_mode_of_training</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-29 16:20:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
