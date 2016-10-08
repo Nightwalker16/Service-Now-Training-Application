@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>password</grant_type>
+        <name>training_outh_provider default_profile</name>
+        <oauth_entity display_value="87b087acc6712200390357342f690f04">4cd087ac4f71220091f434a18110c792</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-08 13:04:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>21a143ac4f71220091f434a18110c7ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>training_outh_provider default_profile</sys_name>
+        <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+        <sys_update_name>oauth_entity_profile_21a143ac4f71220091f434a18110c7ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-08 13:04:27</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

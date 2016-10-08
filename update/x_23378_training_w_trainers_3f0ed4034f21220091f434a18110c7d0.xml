@@ -3,31 +3,31 @@
     <x_23378_training_w_trainers action="INSERT_OR_UPDATE">
         <area_of_expertise>Service Now</area_of_expertise>
         <facebook_url>www.facebook.com/872686</facebook_url>
-        <full_name>Ajit Joshi</full_name>
+        <full_name>Jitendra singh Patel</full_name>
         <hands_on>yes</hands_on>
         <linkedin_url>www.linkedin.com/9800878</linkedin_url>
-        <name>A Joshi</name>
+        <name>Jeet Patel</name>
         <project_support>yes</project_support>
         <qualification>5</qualification>
         <stackoverflow_url>www.stackoverflow.com/098089</stackoverflow_url>
         <sys_class_name>x_23378_training_w_trainers</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-29 18:18:30</sys_created_on>
+        <sys_created_on>2016-09-03 09:18:49</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>10a9a8e94f21220091f434a18110c76d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>A Joshi</sys_name>
+        <sys_id>3f0ed4034f21220091f434a18110c7d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jeet Patel</sys_name>
         <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
-        <sys_update_name>x_23378_training_w_trainers_10a9a8e94f21220091f434a18110c76d</sys_update_name>
+        <sys_update_name>x_23378_training_w_trainers_3f0ed4034f21220091f434a18110c7d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-09-02 06:19:31</sys_updated_on>
+        <sys_updated_on>2016-09-03 09:18:49</sys_updated_on>
         <total_experience>15 years</total_experience>
-        <total_hour>80</total_hour>
+        <total_hour>45</total_hour>
         <training_experience>10 year</training_experience>
         <training_fee>30000</training_fee>
-        <training_mode>Webex</training_mode>
+        <training_mode>4</training_mode>
     </x_23378_training_w_trainers>
 </record_update>

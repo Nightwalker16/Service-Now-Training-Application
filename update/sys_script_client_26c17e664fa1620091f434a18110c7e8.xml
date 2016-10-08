@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Capitalizing Name on load of form.</description>
+        <field>sys_scope</field>
+        <global>true</global>
+        <messages/>
+        <name>Capitalize Name</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   var uName = g_form.getValue('full_name').toUpperCase();
+   g_form.setValue('full_name', uName);
+	return false;
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-02 06:52:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26c17e664fa1620091f434a18110c7e8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Capitalize Name</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+        <sys_update_name>sys_script_client_26c17e664fa1620091f434a18110c7e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-02 10:01:40</sys_updated_on>
+        <table>x_23378_training_w_trainers</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

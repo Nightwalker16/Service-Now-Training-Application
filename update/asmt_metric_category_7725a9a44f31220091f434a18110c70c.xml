@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description>This survey is about training portal</description>
+        <details><![CDATA[<p>How helpful is training portal for getting trained in digital technologies.</p>]]></details>
+        <filter/>
+        <metric_type/>
+        <name>Train in digital survey</name>
+        <order>100</order>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-08 06:20:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7725a9a44f31220091f434a18110c70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Train in digital survey</sys_name>
+        <sys_package display_value="Training_world" source="x_23378_training_w">35f844214f21220091f434a18110c719</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Training_world">35f844214f21220091f434a18110c719</sys_scope>
+        <sys_update_name>asmt_metric_category_7725a9a44f31220091f434a18110c70c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-08 06:20:28</sys_updated_on>
+        <table/>
+        <total_metrics/>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=7725a9a44f31220091f434a18110c70c"/>
+</record_update>
